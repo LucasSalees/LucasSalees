@@ -47,7 +47,7 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <a href="https://github.com/SEU-USERNAME-DO-GITHUB">
+  <a href="https://github.com/LucasSalees">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-DO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-DO-GITHUB&layout=compact&langs_count=7&theme=dracula"/>
   </a>
