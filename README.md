@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=22qaz4w7hmsoguxaxgnluo7qa&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22qaz4w7hmsoguxaxgnluo7qa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22qaz4w7hmsoguxaxgnluo7qa&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
   </a>
 </p>
 
@@ -76,5 +76,5 @@
   <a href="https://portifolio-lucas-sales.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Meu_Portfólio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/></a>
   <a href="https://www.linkedin.com/in/lucas-salees/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/sales.lucass/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:seu-email-aqui@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:contactlucassales@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
