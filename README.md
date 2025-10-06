@@ -1,10 +1,12 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C7B7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Sales!+%F0%9F%91%8B;Desenvolvedor+Web+Multiplataforma" alt="Typing SVG">
-  </a>
+  Olá! Eu sou o Lucas Sales 👋
 </h1>
 
-<h3 align="center">Apaixonado por criar soluções web robustas e eficientes.</h3>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+Multiplataforma;Especialista+em+Java+%26+Spring;Apaixonado+por+C%C3%B3digo+Limpo" alt="Typing SVG">
+  </a>
+</h3>
 
 <p align="center">
   <a href="#-sobre-mim"><strong>Sobre Mim</strong></a> 🔹
