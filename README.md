@@ -11,7 +11,7 @@
 <p align="center">
   <a href="#-sobre-mim"><strong>Sobre Mim</strong></a> 🔹
   <a href="#-habilidades-técnicas"><strong>Tecnologias</strong></a> 🔹
-  <a href="#-estatísticas"><strong>Estatísticas</strong></a> 🔹
+  <a href="#-contribuições"><strong>Contribuições</strong></a> 🔹
   <a href="#-conecte-se-comigo"><strong>Contato</strong></a>
 </p>
 
@@ -55,16 +55,19 @@ Sou Lucas Sales, desenvolvedor na **Input Tecnologia** e graduando em **Ciência
 
 ---
 
-### 📊 Estatísticas
+### 🐍 Contribuições
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lucassalees&show_icons=true&theme=dracula&locale=pt-br&hide_border=false" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucassalees&theme=dracula&hide_border=false" />
+  <img src="https://raw.githubusercontent.com/lucassalees/lucassalees/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassalees&layout=compact&theme=dracula&hide_border=false&langs_count=8&locale=pt-br" />
-</p>
+---
+
+### 🎯 Soft Skills & Diferenciais
+
+- **Comunicação Assertiva:** Experiência em reuniões técnicas e colaboração em equipe.
+- **Aprendizado Ágil:** Capacidade de absorver novas tecnologias rapidamente (como a transição para IA).
+- **Clean Code:** Foco em código limpo, legível e de fácil manutenção.
 
 ---
 
