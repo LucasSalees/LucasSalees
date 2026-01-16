@@ -58,10 +58,12 @@ Sou Lucas Sales, desenvolvedor na **Input Tecnologia** e graduando em **Ciência
 ### 📊 Estatísticas
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LucasSalees&show_icons=true&theme=dracula&count_private=true&hide_border=false" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasSalees&theme=dracula&hide_border=false" />
-  <br/>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSalees&layout=compact&theme=dracula&hide_border=false&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lucassalees&show_icons=true&theme=dracula&locale=pt-br&hide_border=false" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucassalees&theme=dracula&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassalees&layout=compact&theme=dracula&hide_border=false&langs_count=8&locale=pt-br" />
 </p>
 
 ---
