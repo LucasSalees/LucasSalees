@@ -58,7 +58,7 @@ Sou Lucas Sales, desenvolvedor na **Input Tecnologia** e graduando em **Ciência
 ### 🐍 Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lucassalees/lucassalees/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/LucasSalees/LucasSalees/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ Sou Lucas Sales, desenvolvedor na **Input Tecnologia** e graduando em **Ciência
 ### 🎯 Soft Skills & Diferenciais
 
 - **Comunicação Assertiva:** Experiência em reuniões técnicas e colaboração em equipe.
-- **Aprendizado Ágil:** Capacidade de absorver novas tecnologias rapidamente (como a transição para IA).
+- **Aprendizado Ágil:** Capacidade de absorver novas tecnologias rapidamente.
 - **Clean Code:** Foco em código limpo, legível e de fácil manutenção.
 
 ---
