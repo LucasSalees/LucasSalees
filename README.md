@@ -22,8 +22,7 @@
 Sou Lucas Sales, desenvolvedor na **Input Tecnologia** e graduando em **Ciência da Computação**. Meu foco é construir sistemas escaláveis e inteligentes, unindo o poder do Java/Spring com inovações em Visão Computacional e IA.
 
 - 💼 **Atuação:** Desenvolvedor Multiplataforma na Input Tecnologia.
-- 🎓 **Educação:** 6º Semestre de Ciência da Computação (UNIP).
-- 🏆 **Certificação:** Machine Learning e GenAI na Prática (DIO/AWS).
+- 🎓 **Educação:** 7º Semestre de Ciência da Computação (UNIP).
 - 🇬🇧 **Idioma:** Inglês Fluente (Formação CNA).
 
 ---
@@ -59,8 +58,10 @@ Sou Lucas Sales, desenvolvedor na **Input Tecnologia** e graduando em **Ciência
 ### 📊 Estatísticas
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LucasSalees&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSalees&layout=compact&theme=dracula" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LucasSalees&show_icons=true&theme=dracula&count_private=true&hide_border=false" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasSalees&theme=dracula&hide_border=false" />
+  <br/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSalees&layout=compact&theme=dracula&hide_border=false&langs_count=8" />
 </p>
 
 ---
