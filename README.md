@@ -61,3 +61,10 @@ DevOps & Tools
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22qaz4w7hmsoguxaxgnluo7qa&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/LucasSalees/LucasSalees/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/LucasSalees/LucasSalees/output/pacman-contribution-graph.svg">
+</picture>
