@@ -58,9 +58,17 @@ DevOps & Tools
   <a href="mailto:contactlucassales@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+---
+
+### 🎧 O Que Estou Ouvindo
+
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22qaz4w7hmsoguxaxgnluo7qa&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
 </p>
+
+---
+
+### 🤝 Minhas Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
