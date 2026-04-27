@@ -2,12 +2,6 @@
   Olá! Eu sou o Lucas Sales 👋
 </h1>
 
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Java+21+%26+Spring+Boot+4;AI+%26+Computer+Vision+Dev;Soluções+SaaS+Escaláveis" alt="Typing SVG">
-  </a>
-</h3>
-
 ---
 
 ### 👨‍💻 Sobre Mim
@@ -25,7 +19,7 @@ Sou Lucas Sales, desenvolvedor Fullstack focado em construir ecossistemas robust
 ### 💻 Habilidades Técnicas
 
 **Backend & Database**
-<p align="left"> 
+<p align="center"> 
   <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Spring_Boot_4.0-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
@@ -34,7 +28,7 @@ Sou Lucas Sales, desenvolvedor Fullstack focado em construir ecossistemas robust
 </p>
 
 **Frontend & Design**
-<p align="left"> 
+<p align="center"> 
   <img src="https://img.shields.io/badge/JavaScript_Vanilla-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
@@ -43,7 +37,7 @@ Sou Lucas Sales, desenvolvedor Fullstack focado em construir ecossistemas robust
 </p>
 
 **AI & DevOps**
-<p align="left"> 
+<p align="center"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
   <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=for-the-badge&logo=google&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
