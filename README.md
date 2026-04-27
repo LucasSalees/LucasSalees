@@ -4,21 +4,24 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+<h2 align="center">👨‍💻 Sobre Mim</h2>
 
-Sou Lucas Sales, desenvolvedor Fullstack focado em construir ecossistemas robustos e inteligentes. Atualmente, curso o 7º semestre de **Ciência da Computação** e atuo profissionalmente criando soluções que unem a performance do backend em **Java 21** com interfaces modernas e ágeis em **Vanilla JS** e **Bootstrap**.
+<p align="center">
+Sou Lucas Sales, desenvolvedor Fullstack focado em construir ecossistemas robustos e inteligentes. Atualmente, curso o 7º semestre de <strong>Ciência da Computação</strong> e atuo profissionalmente criando soluções que unem a performance do backend em <strong>Java 21</strong> com interfaces modernas e ágeis em <strong>Vanilla JS</strong> e <strong>Bootstrap</strong>.
+</p>
 
-- 💼 **Atuação:** Desenvolvedor Fullstack na Input Tecnologia.
-- 🎓 **Educação:** Ciência da Computação na UNIP (Formação em 12/2026).
-- 🇬🇧 **Idioma:** Inglês Fluente (CNA Master).
-- 🌱 **Foco Atual:** Arquiteturas SaaS Multi-tenant, integração de APIs de IA (Whisper) e otimização de performance frontend.
+<p align="center">
+  💼 <strong>Atuação:</strong> Desenvolvedor Fullstack na Input Tecnologia.<br>
+  🎓 <strong>Educação:</strong> Ciência da Computação na UNIP (Formação em 12/2026).<br>
+  🇬🇧 <strong>Idioma:</strong> Inglês Fluente (CNA Master).<br>
+  🌱 <strong>Foco Atual:</strong> Arquiteturas SaaS Multi-tenant, integração de APIs de IA (Whisper) e otimização de performance frontend.
+</p>
 
 ---
----
 
-### 💻 Habilidades Técnicas
+<h2 align="center">💻 Habilidades Técnicas</h2>
 
-**Backend & Database**
+<h3 align="center">Backend & Database</h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Spring_Boot_4.0-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> 
@@ -27,7 +30,7 @@ Sou Lucas Sales, desenvolvedor Fullstack focado em construir ecossistemas robust
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
 </p>
 
-**Frontend & Design**
+<h3 align="center">Frontend & Design</h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/JavaScript_Vanilla-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
@@ -36,7 +39,7 @@ Sou Lucas Sales, desenvolvedor Fullstack focado em construir ecossistemas robust
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
 </p>
 
-**AI & DevOps**
+<h3 align="center">AI & DevOps</h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
   <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=for-the-badge&logo=google&logoColor=white" /> 
@@ -47,17 +50,19 @@ Sou Lucas Sales, desenvolvedor Fullstack focado em construir ecossistemas robust
 
 ---
 
-### ⚡ Além do Código
+<h2 align="center">⚡ Além do Código</h2>
 
-Quando não estou estruturando bancos de dados ou refinando CSS:
-- 🪴 Dedico tempo ao cultivo de **Bonsais Shimpaku** e suculentas.
-- 🥊 Pratico **Kickboxing** para manter o foco e a disciplina.
-- 🏎️ Sou fã de cultura automotiva, desde a franquia *Need for Speed* até os filmes da Pixar.
-- 🦅 Torcedor do **Corinthians**.
+<p align="center">
+Quando não estou estruturando bancos de dados ou refinando CSS:<br>
+🪴 Dedico tempo ao cultivo de <strong>Bonsais Shimpaku</strong> e suculentas.<br>
+🥊 Pratico <strong>Kickboxing</strong> para manter o foco e a disciplina.<br>
+🏎️ Sou fã de cultura automotiva, desde a franquia <em>Need for Speed</em> até os filmes da Pixar.<br>
+🦅 Torcedor do <strong>Corinthians</strong>.
+</p>
 
 ---
 
-### 📬 Conecte-se Comigo
+<h2 align="center">📬 Conecte-se Comigo</h2>
 
 <p align="center">
   <a href="https://portifolio-lucas-sales.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/></a>
@@ -67,7 +72,7 @@ Quando não estou estruturando bancos de dados ou refinando CSS:
 
 ---
 
-### 🎧 O Que Estou Ouvindo
+<h2 align="center">🎧 O Que Estou Ouvindo</h2>
 
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22qaz4w7hmsoguxaxgnluo7qa&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
@@ -75,11 +80,13 @@ Quando não estou estruturando bancos de dados ou refinando CSS:
 
 ---
 
-### 🤝 Atividade no GitHub
+<h2 align="center">🤝 Atividade no GitHub</h2>
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/LucasSalees/LucasSalees/output/pacman-contribution-graph-dark.svg">
   <img alt="pacman contribution graph"
     src="https://raw.githubusercontent.com/LucasSalees/LucasSalees/output/pacman-contribution-graph.svg">
 </picture>
+</p>
