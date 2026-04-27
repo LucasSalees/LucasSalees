@@ -1,82 +1,54 @@
-# Olá, eu sou o Lucas Sales! 👋
+# Olá, eu sou o Lucas Sales 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7B7&width=500&lines=Desenvolvedor+Fullstack;Ecossistema+Java+%26+Spring;Engenharia+de+Software;Deploy+%26+Infraestrutura)](https://git.io/typing-svg)
+
+---
+
+### 🚀 Sobre Mim
+Sou desenvolvedor Fullstack na **Input Tecnologia** e graduando em **Ciência da Computação** (7º semestre). Foco em transformar problemas complexos em sistemas eficientes, unindo a robustez do Java com interfaces leves e performáticas.
+
+* 🔗 **Acesse meu trabalho:** [Meu Portfólio Profissional](https://portifolio-lucas-sales.netlify.app/)
+* 🇬🇧 **Diferencial:** Inglês fluente (CNA Master), com facilidade para documentação e projetos internacionais.
+
+---
+
+### 🛠️ O que eu domino
+
+**Backend & Arquitetura**
+Especialista no ecossistema **Java 21** e **Spring Boot 4**. Construo APIs escaláveis com foco em segurança e performance, utilizando **SQL Server**, **MySQL** e soluções modernas de nuvem como o **Supabase**.
+
+**Frontend & UX**
+Acredito na performance máxima. Foco no desenvolvimento ágil com **Vanilla JavaScript** e **Bootstrap 5**, garantindo carregamentos instantâneos e código de fácil manutenção.
+
+**Inteligência Artificial**
+Integro tecnologias de ponta em softwares do dia a dia, como a **Whisper API** para transcrição inteligente de áudio.
+
+---
+
+### 📊 Atividade no GitHub
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C7B7&width=500&lines=Fullstack+Developer;Java+21+%26+Spring+Boot+4;AI+%26+Computer+Vision+Dev;Soluções+SaaS+Escaláveis" alt="Typing SVG" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucasSalees&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSalees&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
----
+<br/>
 
-### 👨‍💻 Sobre Mim
-
-Sou desenvolvedor Fullstack com foco em criar sistemas robustos e experiências digitais fluidas. Atualmente, curso o 7º semestre de **Ciência da Computação (UNIP)** e atuo profissionalmente na **Input Tecnologia**.
-
-- 💼 **Atuação:** Desenvolvedor Fullstack focado em arquiteturas SaaS e integrações de APIs.
-- 🎓 **Educação:** Ciência da Computação (Previsão de Formatura: 12/2026).
-- 🇬🇧 **Idioma:** Inglês Fluente (Formação CNA Master).
-- 🌱 **Foco Técnico:** Especialização em **Java 21**, **Spring Boot 4** e otimização de performance com **Vanilla JS**.
-
----
-
-### 🚀 Projetos em Destaque
-
-* **🏥 Prontuário Autônomo:** Sistema de transcrição inteligente utilizando **Whisper API (IA)** para automação de consultas médicas.
-* **📦 Vestiq:** ERP SaaS multi-tenant desenvolvido para gestão de varejo e controle de estoque.
-* **🐝 brbee.SOLUTIONS:** Portal profissional com design avançado e identidade visual em "colmeia" (hexagonal).
-* **🎓 CTUS:** Plataforma oficial do Colóquio Transdisciplinar da UNIP Sorocaba.
-
----
-
-### 💻 Habilidades Técnicas
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Backend** | `Java 21`, `Spring Boot 4`, `Python`, `SQL Server`, `MySQL` |
-| **Frontend** | `JavaScript (Vanilla)`, `Bootstrap 5`, `HTML5`, `CSS3`, `React` |
-| **IA & Vision** | `Whisper API`, `MediaPipe`, `OpenCV` |
-| **Cloud & Ops** | `Supabase`, `Docker`, `Render`, `Netlify`, `Git` |
-
----
-
-### 📊 Estatísticas e Atividade
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSalees&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSalees&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasSalees/LucasSalees/output/pacman-contribution-graph-dark.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucasSalees/LucasSalees/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+**Contribuições (Pacman):**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasSalees/LucasSalees/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/LucasSalees/LucasSalees/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph Dark">
+</picture>
 
 ---
 
 ### ⚡ Além do Código
-
-- 🪴 **Hobbies:** Cultivador de **Bonsais Shimpaku** e suculentas.
-- 🥊 **Esportes:** Praticante de **Kickboxing** e fiel torcedor do **Corinthians**.
-- 🏎️ **Interesses:** Entusiasta de Need for Speed e cultura automotiva.
+* 🪴 Cultivo de **Bonsais Shimpaku** e suculentas.
+* 🥊 Praticante de **Kickboxing**.
+* 🏎️ Entusiasta da cultura automotiva e Need for Speed.
+* 🦅 Fiel torcedor do **Corinthians**.
 
 ---
 
-### 📬 Conecte-se Comigo
-
-<p align="left">
-  <a href="https://portifolio-lucas-sales.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-salees/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:contactlucassales@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22qaz4w7hmsoguxaxgnluo7qa&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true&mode=dark" width="400px">
-</p>
+### 📬 Vamos conversar?
+[LinkedIn](https://www.linkedin.com/in/lucas-salees/) • [Email](mailto:contactlucassales@gmail.com) • [Portfólio](https://portifolio-lucas-sales.netlify.app/)
